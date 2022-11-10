@@ -809,7 +809,7 @@ main {
     justify-content: center;
     align-items: flex-end;
     flex-wrap: wrap;
-    padding: 92px 1vw 110px 1vw;
+    padding: 92px 0 110px 0;
 }
 
 @media screen and (max-width: 1250px) {
